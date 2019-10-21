@@ -2,7 +2,7 @@
 % Drew (Andrew P.) Sabelhaus
 % Berkeley Emergent Space Tensegrities Lab 2016
 % This script calculates the positions and renders a continuum manipulator
-% based on the kinematics of the Webster & Jones 2010 IJRR paper.
+% based on the kinematics of the Webster & Jones 2010 IJRR paper（Review Paper）.
 % This will be used to represent the spine of a quadruped in later work.
 
 % Set up the workspace
